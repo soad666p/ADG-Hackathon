@@ -1,5 +1,6 @@
 # ADG-Hackathon
 placeholder for the hackathon 
+Please fork this project 
 
 TeamName: <TEAMNAME>
 team members: <member 1>
